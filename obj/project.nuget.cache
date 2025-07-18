@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "7WNuyyvegkivKIzI8HTqy3FImjzNouxQeMdlNlgdp1NOlaCCwnt2/7gcWh6/yhd3YMh+6V4eCwcgvRhgUQMEKA==",
+  "success": true,
+  "projectFilePath": "/home/drbathound/cs_projects/simple_website/simple_website.csproj",
+  "expectedPackageFiles": [
+    "/home/drbathound/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.15/microsoft.aspnetcore.app.ref.8.0.15.nupkg.sha512"
+  ],
+  "logs": []
+}
