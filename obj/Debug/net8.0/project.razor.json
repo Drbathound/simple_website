@@ -19344,6 +19344,11 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "/home/drbathound/cs_projects/simple_website/Views/HelloWorld/Index.cshtml",
+      "TargetPath": "Views\\HelloWorld\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "/home/drbathound/cs_projects/simple_website/Views/Shared/_Layout.cshtml",
       "TargetPath": "Views\\Shared\\_Layout.cshtml",
       "FileKind": "mvc"
