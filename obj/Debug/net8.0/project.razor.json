@@ -19334,6 +19334,16 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "/home/drbathound/cs_projects/simple_website/Views/Movies/Edit.cshtml",
+      "TargetPath": "Views\\Movies\\Edit.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/home/drbathound/cs_projects/simple_website/Views/Movies/Create.cshtml",
+      "TargetPath": "Views\\Movies\\Create.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "/home/drbathound/cs_projects/simple_website/Views/HelloWorld/Privacy.cshtml",
       "TargetPath": "Views\\HelloWorld\\Privacy.cshtml",
       "FileKind": "mvc"
@@ -19354,6 +19364,11 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "/home/drbathound/cs_projects/simple_website/Views/Movies/Index.cshtml",
+      "TargetPath": "Views\\Movies\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "/home/drbathound/cs_projects/simple_website/Views/_ViewImports.cshtml",
       "TargetPath": "Views\\_ViewImports.cshtml",
       "FileKind": "mvc"
@@ -19364,8 +19379,18 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "/home/drbathound/cs_projects/simple_website/Views/Movies/Details.cshtml",
+      "TargetPath": "Views\\Movies\\Details.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "/home/drbathound/cs_projects/simple_website/Views/Shared/_ValidationScriptsPartial.cshtml",
       "TargetPath": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/home/drbathound/cs_projects/simple_website/Views/Movies/Delete.cshtml",
+      "TargetPath": "Views\\Movies\\Delete.cshtml",
       "FileKind": "mvc"
     }
   ],
