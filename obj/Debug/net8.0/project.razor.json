@@ -19329,13 +19329,13 @@
   "RootNamespace": "simple_website",
   "Documents": [
     {
-      "FilePath": "/home/drbathound/cs_projects/simple_website/Views/Home/Index.cshtml",
-      "TargetPath": "Views\\Home\\Index.cshtml",
+      "FilePath": "/home/drbathound/cs_projects/simple_website/Views/HelloWorld/Welcome.cshtml",
+      "TargetPath": "Views\\HelloWorld\\Welcome.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "/home/drbathound/cs_projects/simple_website/Views/Home/Privacy.cshtml",
-      "TargetPath": "Views\\Home\\Privacy.cshtml",
+      "FilePath": "/home/drbathound/cs_projects/simple_website/Views/HelloWorld/Privacy.cshtml",
+      "TargetPath": "Views\\HelloWorld\\Privacy.cshtml",
       "FileKind": "mvc"
     },
     {

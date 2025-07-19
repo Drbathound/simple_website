@@ -11,10 +11,20 @@ public class HelloWorldController : Controller
     {
         return View();
     }
-    // 
     // GET: /HelloWorld/Welcome/ 
-    public string Welcome()
+// Requires using System.Text.Encodings.Web;
+    public IActionResult Welcome(string name, int numTimes = 1)
     {
-        return "This is the Welcome action method...";
+        ViewData["Message"] = "Hello " + name;
+        ViewData["NumTimes"] = numTimes;
+        return View();
     }
+// GET: /HelloWorld/Privacy/ 
+    public IActionResult Privacy()
+    {
+        ViewData["Message"] = "we do a little funny";
+        return View();
+    }
+
+
 }
