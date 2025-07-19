@@ -1,0 +1,13 @@
+@{
+    ViewData["Title"] = "Welcome";
+}
+<h2>Welcome</h2>
+<ul>
+<!--the ! used in the following line is the Null forgiveness operator, it essentially tells the compiler
+        "i know what i'm doing. just follow along"
+        https://learn.microsoft.com/en-us/aspnet/core/tutorials/first-mvc-app/adding-view?view=aspnetcore-8.0&tabs=visual-studio-code
+</!-->
+    @for(int i = 0; i<(int)ViewData["NumTimes"]!; i++){
+        <li>@ViewData["Message"]</li>
+    }
+</ul>
